@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Mytask.Models.User>
+<div class="container">
+    <table class="table table-hover">
+        <tr>
+           <th>ID</th>
+           <th>Name</th>
+           <th>Email</th>
+           <th>Phone</th>
+           <th>Address</th>
+           <th>Salary</th>
+           <th>Date</th>
+           <th>Department</th>
+           <th>Description</th>
+        </tr>
+        @{
+            foreach(var u in Model)
+            {
+                <tr>
+                <td>@u.UserId</td>
+                <td>@u.Name</td>
+                <td>@u.Email</td>
+                <td>@u.Phone</td>
+                <td>@u.Address</td>
+                <td>@u.Salary</td>
+                <td>@u.CreatedDate</td>
+                <td>@u.Department</td>
+                <td>@u.Description</td>
+                    <td>
+                        <a class="btn btn-danger" href="A_Delete/@u.UserId">Delete</a>
+                        <a class="btn btn-danger" href="A_Edit/@u.UserId">Edit</a>
+                    </td>
+                </tr>
+            }
+
+        }
+        
+
+
+    </table>
+
+</div>

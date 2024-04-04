@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pratima\\ASP.NET\\Mytask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\myuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\myuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\myuser\\displaybyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\myuser\\displaybyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\controllers\\myusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\controllers\\myusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\myuser\\a_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\myuser\\a_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\myuser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\myuser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\myuser\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\myuser\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\models\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\models\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\models\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\models\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|d:\\pratima\\asp.net\\mytask\\mytask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B90FB1C-6474-49C0-8606-F03072DD3018}|Mytask\\Mytask.csproj|solutionrelative:mytask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A_Edit.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\A_Edit.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\MyUser\\A_Edit.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\A_Edit.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\MyUser\\A_Edit.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:59:33.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T11:30:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mytask\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mytask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:26:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mystyle.css",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\wwwroot\\css\\mystyle.css",
+              "RelativeDocumentMoniker": "Mytask\\wwwroot\\css\\mystyle.css",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\wwwroot\\css\\mystyle.css",
+              "RelativeToolTip": "Mytask\\wwwroot\\css\\mystyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T11:09:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\MyUser\\Edit.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\Edit.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\MyUser\\Edit.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T09:42:00.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Models\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "Mytask\\Models\\UpdateUser.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Models\\UpdateUser.cs",
+              "RelativeToolTip": "Mytask\\Models\\UpdateUser.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:39:19.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T08:08:28.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayById.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\DisplayById.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\MyUser\\DisplayById.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\DisplayById.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\MyUser\\DisplayById.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T17:55:10.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\MyUser\\Index.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\Index.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\MyUser\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T14:21:42.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyUserController.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Controllers\\MyUserController.cs",
+              "RelativeDocumentMoniker": "Mytask\\Controllers\\MyUserController.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Controllers\\MyUserController.cs",
+              "RelativeToolTip": "Mytask\\Controllers\\MyUserController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAqwLsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:18:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Program.cs",
+              "RelativeDocumentMoniker": "Mytask\\Program.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Program.cs",
+              "RelativeToolTip": "Mytask\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:48:52.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\appsettings.json",
+              "RelativeDocumentMoniker": "Mytask\\appsettings.json",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\appsettings.json",
+              "RelativeToolTip": "Mytask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T11:46:51.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Mytask\\Models\\User.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Models\\User.cs",
+              "RelativeToolTip": "Mytask\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:37:59.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Mytask\\Data\\MyDBContext.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "Mytask\\Data\\MyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:31:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\Add.cshtml",
+              "RelativeDocumentMoniker": "Mytask\\Views\\MyUser\\Add.cshtml",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Views\\MyUser\\Add.cshtml",
+              "RelativeToolTip": "Mytask\\Views\\MyUser\\Add.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T11:29:25.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Models\\AddUser.cs",
+              "RelativeDocumentMoniker": "Mytask\\Models\\AddUser.cs",
+              "ToolTip": "D:\\Pratima\\ASP.NET\\Mytask\\Mytask\\Models\\AddUser.cs",
+              "RelativeToolTip": "Mytask\\Models\\AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T11:17:35.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
